@@ -1,10 +1,10 @@
 #!/bin/sh
 
 ### PATHS ###
-deployRoot="/d/liferay/portal/dxp-7.0"
-gitLCSRoot="/d/git/lcs"
-gitMonitorRoot="/d/git/internship/team-assignments/monitor"
-gitPortalRoot="/d/git/ee-7.0/portal/modules"
+deployRoot="/c/liferay-dxp-digital-enterprise-7.0-ga1"
+gitLCSRoot="/c/git/lcs"
+gitMonitorRoot="/c/git/internship/team-assignments/monitor"
+gitPortalRoot="/c/git/ee7/liferay-portal-ee/modules"
 
 deployTomcatHome=$deployRoot"/tomcat-8.0.32"
 
